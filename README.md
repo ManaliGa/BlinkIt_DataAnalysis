@@ -15,5 +15,6 @@ Visualization: Power BI
 1.The following metrics were calculated to assess business performance:  
 2.Total Sales: Overall revenue generated from all items sold.  
 3.Average Sales: The average revenue per sale. 
+
 4.Number of Items: The total count of different items sold. 
 5.Average Rating: The average customer rating for items sold. 
